@@ -10,3 +10,11 @@ ZCZC W00 60 L10 Assignment (General)
 ZCZC W00 120 L26 Movie: relax, etc.
 ZCZC W00 100 L02 ZOOM related
 ZCZC W00 15 L06 Reading References/Books/Documents
+ZCZC W00 60 L22 YouTube: study, etc.
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 25 L11 Assignment #1
+ZCZC W00 60 L01 SCELE related
+ZCZC W00 45 L21 VirtualBox: install GNU/Linux, etc.
+ZCZC W00 30 L00 General Log
+ZCZC W00 45 L06 Reading References/Books/Documents
+ZCZC W00 100 L22 YouTube: study, etc.

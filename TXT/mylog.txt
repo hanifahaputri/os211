@@ -51,3 +51,9 @@ ZCZC W05 30 L05 GSGS related
 ZCZC W05 60 L09 AsDos: asking, etc.
 ZCZC W05 60 L11 Assignment #1
 ZCZC W05 30 L00 General Log
+ZCZC W06 60 L10 Assignment (General)
+ZCZC W06 40 L22 YouTube: study, etc.
+ZCZC W06 60 L11 Assignment #1
+ZCZC W06 100 L02 ZOOM related
+ZCZC W06 60 L05 GSGS related
+ZCZC W06 10 L01 SCELE related
